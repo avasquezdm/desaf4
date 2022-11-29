@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto light';
+}
+
+nav, nav div, form {
+    background-color:#28A745
+}
+
+.oferta {
+    color:#28A745;
+    margin-left: 0.5em;
+}
+
+.gray-text {
+    color:#707070;
+}
+
+.lil-gray {
+    color:#707070;
+    font-size: 13px;
+}
+
+button {
+    border-color: #DDD !important;
+}
+
+form p {
+    font-family: "roboto";
+}
